@@ -15,10 +15,10 @@ class Effect {
             this->numLEDS = numLEDS;
         }
 
-        virtual ~Effect() { }
+        ~Effect() { }
 
-        virtual void setup();
-        virtual void loop();  
+        virtual void setup() = 0;
+        virtual void loop() = 0;  
 };
 
 #endif

@@ -26,7 +26,6 @@ void RainbowMarquee::loop() {
     } else {
         for (int i = 1; i < numLEDS-1; i+= 2) {
             ledArr[i] = CRGB::Black;
-
         }
     }
 
