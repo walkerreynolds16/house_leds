@@ -12,4 +12,4 @@
 ## TODO
 - https://www.superlightingled.com/ucs1903-dc12v-15mm-series-flexible-led-strip-lights-programmable-pixel-full-color-chasing-indoor-use-150leds-164ft-per-reel-by-sale-p-2411.html
 
-- For flashing banging myself in CSGO https://www.superlightingled.com/ucs1903-dc12v-15mm-series-flexible-led-strip-lights-programmable-pixel-full-color-chasing-indoor-use-150leds-164ft-per-reel-by-sale-p-2411.html
+- For flashing banging myself in CSGO https://www.superlightingled.com/ucs1903-dc12v-15mm-series-flexible-led-strip-lights-programmable-pixel-full-color-chasing-indoor-use-450leds-164ft-per-reel-by-sale-p-2409.html
